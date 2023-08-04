@@ -60,4 +60,4 @@ Fazendo IA ficar parada quando o jogo termina
 Bug da raquete entrando na bola
 
 
-Novooooooooooooooooooooo
+

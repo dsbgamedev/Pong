@@ -3,7 +3,7 @@
   "resourceVersion": "1.1",
   "name": "Note1",
   "parent": {
-    "name": "Notes",
-    "path": "folders/Notes.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }
